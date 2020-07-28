@@ -6,8 +6,8 @@
 ## 📌 GitHub Stats and Top Languages
 
 <p float="center">
-  <img hspace="30" src="https://github-readme-stats.vercel.app/api?username=EcemOKAN&show_icons=true&count_private=true&hide=contribs,issues" alt="Ecem's github stats" />
-  <img hspace="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcemOKAN&layout=compact&hide=javascript,html" alt="ETop Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=EcemOKAN&show_icons=true&count_private=true&hide=contribs,issues" alt="Ecem's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcemOKAN&layout=compact&hide=javascript,html" alt="ETop Langs" />
 </p>
 
 
