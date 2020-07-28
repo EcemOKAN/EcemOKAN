@@ -7,7 +7,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=EcemOKAN&show_icons=true&count_private=true&hide=contribs,issues" alt="Ecem's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcemOKAN&layout=compact&hide=javascript,html" alt="ETop Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcemOKAN&hide=html,css" alt="ETop Langs" />
 </p>
 
 
