@@ -10,6 +10,9 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcemOKAN&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
 
+## 💼 Job
+
+I'm working as a Software Engineer in [Softtech](https://softtech.com.tr/)
 
 ## 💻 I'm currently working on
 
