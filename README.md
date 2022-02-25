@@ -12,7 +12,7 @@
 
 ## 💼 Job
 
-I'm working as a Software Engineer in [Softtech](https://softtech.com.tr/)
+I'm working as a Software Engineer in [Turkcell](https://paycell.com.tr/)
 
 ## 💻 I'm currently working on
 
